@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talalmughal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning nestjs and nextjs
+- 🌱 I’m currently working in nestjs and nextjs
 - 💞️ I’m looking to collaborate on web-projects
 - 📫 How to reach me talalmughal47@gmail.com
