@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talalmughal
-- 👀 I’m interested in web development
-- 🌱 I’m currently working in NestJS, NextJS, Postgres, and Tailwind CSS
+- 👀 I’m a Full Stack Engineer
+- 🌱 I’m currently working in NestJS, NextJS, TypeScript, JavaScript, PostgreSQL, and Tailwind CSS
 - 💞️ I’m looking to collaborate on web-projects
 - 📫 How to reach me talalmughal47@gmail.com
